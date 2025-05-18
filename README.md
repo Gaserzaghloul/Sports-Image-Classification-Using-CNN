@@ -33,6 +33,11 @@ I developed a deep learning pipeline that includes:
   - Optimizer: Adam
   - Learning Rate: 0.0005
   - Weight Decay: 1e-4
+    
+## 🚀 Deployment
+
+The final trained model was deployed using **Flask** to serve predictions through a simple web interface.  
+Users can upload an image of a sport, and the system will return the predicted class with high confidence.
 
 ## 🛠️ Technologies Used
 
@@ -44,6 +49,5 @@ I developed a deep learning pipeline that includes:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
