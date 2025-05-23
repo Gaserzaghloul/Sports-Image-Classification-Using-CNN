@@ -4,6 +4,7 @@ Built a deep CNN for multi-class sports image classification using a Kaggle data
 Tuned hyperparameters (layers, dropout, optimizer, batch size, learning rate, weight decay) and trained with early stopping and evaluation metrics.
 Achieved 98.34% validation accuracy on a validation set of 4,937 images out of a total of 24,681 augmented images.
 Visualized results with confusion matrix, PCA projection, and training curves.
+![3](https://github.com/user-attachments/assets/94ff3120-3a8e-45ef-9243-2a039366e129)
 
 ## 🧠 Project Overview
 
